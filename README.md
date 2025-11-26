@@ -9,6 +9,10 @@
 
 動画リンク：https://youtu.be/udSWNP601yk
 
+現在はUIを主に担当しています。
+
+紹介リンク：https://dynamic-earl-6dc.notion.site/UI-2a33b0fa766d81ec9e3fc5e6b6742a58
+
 ---
 
 ## 🕹️ 操作方法
